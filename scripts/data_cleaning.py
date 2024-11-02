@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np 
 
 # Load the CSV file
-df = pd.read_csv('data/raw/Jobs_applied_public.csv', parse_dates=['Date Applied'], dayfirst=True)
+df = pd.read_csv('data/raw/Jobs_applied_public.csv', parse_dates=['Date Applied'], dayfirst=True, index_col=None)
 
 # remove space in column names and make all lower case
 df.rename(columns=lambda x: x.strip().lower(), inplace=True)
@@ -74,10 +74,11 @@ df['year_applied'] = pd.DatetimeIndex(df['date applied']).year
 df['month_applied'] = pd.DatetimeIndex(df['date applied']).month
 
 
+
 print(df)
 print(df[['role', 'date applied']].head(10))
 
 
 #Export to csv
-df.to_csv('data/processed/Jobs_applied_public_processed.csv')
+df.to_csv('data/processed/Jobs_applied_public_processed.csv', index=False)
 

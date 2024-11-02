@@ -1,101 +1,101 @@
-,number,role,recruiter?,date applied,cv used?,first,tech,final,outcome,feedback?,notes written up?,application method,comments,automated first?,tech test type,job_title,job_role,received_reply,year_applied,month_applied
-0,1,Associate Back-end,,2023-12-01,yes,Yes,Yes,Yes,No,Yes,Yes,Company website,,no,Pair programming,junior,back-end,yes,2023,12
-1,2,Full Stack,,2024-01-16,yes,No,No,No,No,,,job board,,,,mid,full stack,yes,2024,1
-2,3,Junior Back-end,,2024-01-31,yes,Yes,No,No,No,No,,referral email,,no,,junior,back-end,yes,2024,1
-3,4,Back-end,,2024-02-15,yes,No,No,No,No,,,Company website,,,,mid,back-end,yes,2024,2
-4,5,Junior Software Engineer,,2024-02-16,yes,No,No,No,No,,,Company website,,,,junior,software engineer,yes,2024,2
-5,6,Junior Software Engineer,,2026-02-23,yes,No,No,No,No,,,Company website,closed early: too many applicants,,,junior,software engineer,yes,2026,2
-6,7,Speculative,,2024-02-26,yes,,No,No,No,,,Company website,Speculative: Currently no role available. ,,,speculative,speculative,no,2024,2
-7,8,Full Stack Dev,,2024-02-27,yes,No,No,No,No,,,Company website,,,,mid,full stack,yes,2024,2
-8,9,Full Stack Support Engineer,,2024-02-27,yes,No,No,No,No,,,Company website,,,,mid,support,yes,2024,2
-9,10,Software Engineer,Yes,2024-02-29,yes,No,No,No,No,,,career/job site,,,,mid,software engineer,yes,2024,2
-10,11,Junior Developer,,2024-03-04,yes,,,,,,,Company website,,,,junior,software engineer,no,2024,3
-11,12,Junior Full Stack Developer,,2024-03-04,yes,,,,,,,Company website,,,,junior,full stack,no,2024,3
-12,13,Full Stack Engineer,,2024-03-04,yes,No,No,No,No,,,Company website,"Did not progress, role filled",,,mid,full stack,yes,2024,3
-13,14,Junior Backend Engineer,,2024-03-12,yes,No,No,No,No,,,Company website,,,,junior,back-end,yes,2024,3
-14,15,Junior Mobile App Developer,,2024-03-12,yes,,,,,,,career/job site,,,,junior,mobile developer,no,2024,3
-15,16,Junior Software Engineer,Yes,2024-03-12,yes,,,,,,,career/job site,,,,junior,software engineer,no,2024,3
-16,17,Graduate Software Engineer,Yes,2024-03-12,yes,,,,,,,career/job site,,,,graduate,software engineer,no,2024,3
-17,18,Graduate Software Engineer,,2024-03-15,yes,No,No,No,No,,,career/job site,,,,graduate,software engineer,yes,2024,3
-18,19,Software Engineer Internship,,2024-03-16,no,No,No,No,No,,,Company website,,,,intern,software engineer,yes,2024,3
-19,20,Software Developer Internship,,2024-03-19,yes,,,,,,,Company website,,,,intern,software engineer,no,2024,3
-20,21,Graduate Software Engineer,,2024-03-19,yes,,,,,,,Direct email,,,,graduate,software engineer,no,2024,3
-21,22,Software Developer Internship,,2024-03-19,yes,,,,,,,Company website,,,,intern,software engineer,no,2024,3
-22,23,Junior Software Developer,,2024-03-20,yes,,,,,,,Company website,,,,junior,software engineer,no,2024,3
-23,24,Junior Full Stack Developer,,2024-03-21,yes,No,No,No,No,,,career/job site,,,,junior,full stack,yes,2024,3
-24,25,Junior Software Engineer,Yes,2024-03-25,yes,,,,,,,career/job site,,,,junior,software engineer,no,2024,3
-25,26,Full Stack Engineer,,2024-03-25,yes,No,No,No,No,,,career/job site,"Did not progress, role filled",,,mid,full stack,yes,2024,3
-26,27,Apprenticeship,,2024-03-26,yes,Yes,Yes,No,No,No,,Company website,,no,algorithmic problems,apprentice,software engineer,yes,2024,3
-27,28,Application Software Engineer,Yes,2024-03-26,yes,,,,,,,career/job site,,,,mid,software engineer,no,2024,3
-28,29,Software Engineer,,2024-04-11,yes,,,,,,,job board,,,,mid,software engineer,no,2024,4
-29,30,Apprenticeship,,2024-04-21,yes,Yes,Yes,No,No,,,Company website,,no,algorithmic problems,apprentice,software engineer,yes,2024,4
-30,31,Apprenticeship,,2024-04-24,yes,Yes,Yes,Yes,No,Yes,Yes,Company website,,no,take-home,apprentice,software engineer,yes,2024,4
-31,32,Graduate Software Engineer,,2024-05-01,yes,,,,,,,Company website,,,,graduate,software engineer,no,2024,5
-32,33,Software Engineer,,2024-05-01,yes,No,No,No,No,,,Company website,,,,mid,software engineer,yes,2024,5
-33,34,Graduate Software Engineer,Yes,2024-05-01,yes,,,,,,,,,,,graduate,software engineer,no,2024,5
-34,35,TypeScript Software Engineer,,2024-05-01,yes,No,No,No,No,,,Company website,,,,mid,software engineer,yes,2024,5
-35,36,Software Engineer Internship,,2024-05-01,yes,,,,,,,Company website,,,,intern,software engineer,no,2024,5
-36,37,Software Engineer,,2024-05-02,yes,No,No,No,No,,,career/job site,,,,mid,software engineer,yes,2024,5
-37,38,Software Engineer (Typescript),,2024-05-02,yes,No,No,No,No,,,career/job site,,,,mid,software engineer,yes,2024,5
-38,39,Junior Software Developer,,2024-05-04,yes,,,,,,,Company website,,,,junior,software engineer,no,2024,5
-39,40,Graduate Product Engineer,,2024-05-07,yes,No,No,No,No,,,career/job site,change in circumstance,,,graduate,product engineer,yes,2024,5
-40,41,Entry-level Software Engineer,,2024-05-07,yes,,,,,,,Company website,,,,junior,software engineer,no,2024,5
-41,42,Junior Software Engineer,,2024-05-08,yes,,,,,,,career/job site,,,,junior,software engineer,no,2024,5
-42,43,Software Engineer,,2024-05-13,yes,,,,,,,career/job site,,,,mid,software engineer,no,2024,5
-43,44,Associate Software Engineer,,2024-05-31,yes,No,Yes,No,No,,,Company website,,,algorithmic problems,junior,software engineer,yes,2024,5
-44,45,Full Stack Engineer,,2024-06-12,yes,No,No,No,No,,,career/job site,,,,mid,full stack,yes,2024,6
-45,46,Associate Engineer,,2024-06-12,yes,No,No,No,No,,,Company website,,,,junior,software engineer,yes,2024,6
-46,47,Graduate Software Engineer,,2024-06-17,yes,No,No,No,No,,,Company website,,,,graduate,software engineer,yes,2024,6
-47,48,Trainee Web Developer,,2024-06-17,yes,No,No,No,No,,,direct Email,,,,trainee,web developer,yes,2024,6
-48,49,Full Stack Software Engineer,,2024-06-18,yes,No,No,No,No,,,career/job site,,,,mid,full stack,yes,2024,6
-49,50,Junior IT Product Developer,,2024-06-18,yes,No,No,No,No,,,Company website,,,,junior,software engineer,yes,2024,6
-50,51,Junior Software Engineer,,2024-06-20,yes,,,,,,,career/job site,,,,junior,software engineer,no,2024,6
-51,52,Junior Software Developer,,2024-06-20,yes,No,No,No,No,,,Company website,,,,junior,software engineer,yes,2024,6
-52,53,Graduate Engineer,,2024-06-20,yes,No,No,No,No,,,Company website,,,,graduate,software engineer,yes,2024,6
-53,54,Junior Web Developer,Yes,2024-06-20,yes,,,,,,,career/job site,,,,junior,web developer,no,2024,6
-54,55,Junior Software Engineer,Yes,2024-06-20,yes,,,,,,,career/job site,,,,junior,software engineer,no,2024,6
-55,56,Full Stack Javascript Developer,,2024-06-20,yes,,,,,,,Company website,,,,mid,full stack,no,2024,6
-56,57,Software Engineer,,2024-06-20,yes,,,,,,,Company website,,,,mid,software engineer,no,2024,6
-57,58,Junior Web Developer,,2024-06-21,yes,Yes,,,,,,Company website,,Yes,,junior,web developer,no,2024,6
-58,59,Junior React Software Engineer,Yes,2024-06-23,yes,,,,,,,career/job site,,,,junior,software engineer,no,2024,6
-59,60,Junior Developer,,2024-06-24,yes,,,,,,,career/job site,,,,junior,software engineer,no,2024,6
-60,61,Software Engineer,,2024-06-24,yes,No,No,No,No,,,Company website,,,,mid,software engineer,yes,2024,6
-61,62,Junior Software Engineer,Yes,2024-06-24,yes,No,No,No,No,,,Company website,,,,junior,software engineer,yes,2024,6
-62,63,Junior Developer,Yes,2024-06-24,yes,,,,,,,Company website,,,,junior,software engineer,no,2024,6
-63,64,Php Engineer,,2024-06-24,yes,,,,,,,Company website,,,,mid,software engineer,no,2024,6
-64,65,Junior Developer,,2024-06-25,yes,No,No,No,No,,,Company website,change in circumstance,,,junior,software engineer,yes,2024,6
-65,66,Software Engineer,,2024-06-20,yes,No,No,No,No,,,Company website,,,,mid,software engineer,yes,2024,6
-66,67,Junior Software Engineer,Yes,2024-07-01,yes,,,,,,,career/job site,,,,junior,software engineer,no,2024,7
-67,68,Junior Software Engineer,Yes,2024-07-01,yes,,,,,,,career/job site,,,,junior,software engineer,no,2024,7
-68,69,Associate Software Engineer,,2024-07-02,yes,No,No,No,No,,,Company website,,,,junior,software engineer,yes,2024,7
-69,70,Junior Software Engineer,,2024-07-02,yes,No,No,No,No,,,Direct Email,,,,junior,software engineer,yes,2024,7
-70,71,Frontend Software Engineer,,2024-07-03,yes,Yes,No,No,No,No,,Direct Email,,no,,mid,front-end,yes,2024,7
-71,72,Software Engineer I,,2024-07-04,yes,Yes,Yes,Yes,No,Yes,,job board,"Tech test, then Interview",no,,junior,software engineer,yes,2024,7
-72,73,Associate Software Engineer,,2024-07-17,yes,No,No,No,No,,,Company website,,,,junior,software engineer,yes,2024,7
-73,74,Junior Fullstack Software Engineer,,2024-07-21,yes,No,No,No,No,,,Company website,,,,junior,full stack,yes,2024,7
-74,75,Junior Fullstack Software Developer,,2024-07-27,yes,No,No,No,No,,,Company website,,,,junior,full stack,yes,2024,7
-75,76,Apprenticeship,,2024-07-31,yes,No,Yes,No,No,Yes,,Company website,,,,apprentice,software engineer,yes,2024,7
-76,77,Junior Web Developer,,2024-08-08,yes,No,No,No,No,,,referral email,change in circumstance,,,junior,web developer,yes,2024,8
-77,78,Junior Software Engineer,,2024-08-09,yes,,,,,,,career/job site,,,,junior,software engineer,no,2024,8
-78,79,Junior Software Engineer,,2024-08-13,yes,,,,,,,Company website,,,,junior,software engineer,no,2024,8
-79,80,React Software Engineer,,2024-08-19,yes,No,No,No,No,,,Company website,,,,mid,software engineer,yes,2024,8
-80,81,Junior Engineer,,2024-08-20,yes,No,No,No,No,,,Job board,Internal candidate was hired,,,junior,software engineer,yes,2024,8
-81,82,Apprenticeship,,2024-09-15,yes,No,No,No,No,,,Company website,,,,apprentice,software engineer,yes,2024,9
-82,83,Junior Software Engineer,,2024-09-20,yes,No,No,No,No,,,Company website,,,,junior,software engineer,yes,2024,9
-83,84,Graduate Software Engineer,,2024-09-24,yes,Yes,No,No,No,,,Company website,,yes,,graduate,software engineer,yes,2024,9
-84,85,Software Engineering Graduate,,2024-09-25,yes,No,No,No,No,,,Company website,Rejected due to graduation year,,,graduate,software engineer,yes,2024,9
-85,86,Graduate Backend Software Engineeer,,2024-09-25,yes,,,,,,,Company website,,,,graduate,back-end,no,2024,9
-86,87,Junior React Native Developer - Manchester - Hybrid - 1 day a week in office,Yes,2024-09-26,yes,,,,,,,career/job site,,,,junior,mobile developer,no,2024,9
-87,88,Software Developer Graduate Programme,,2024-09-26,yes,Yes,,,,,,Company website,,yes,,graduate,software engineer,no,2024,9
-88,89,Software Engineering Graduate,,2024-10-02,yes,No,No,No,No,,,Company website,,,,graduate,software engineer,yes,2024,10
-89,90,Graduate Software Developer - Full Stack,,2024-10-02,no,,,,,,,Company website,,,,graduate,full stack,no,2024,10
-90,91,Entry Level Software Software Engineer,,2024-10-03,yes,No,No,No,No,,,Company website,,,,mid,software engineer,yes,2024,10
-91,92,Training Programme ,,2024-10-07,yes,No,No,No,No,,,Company website,,,,trainee,software engineer,yes,2024,10
-92,93,Graduate Trainee Software Engineering,,2024-10-07,yes,Yes,No,No,No,,,Company website,Automated scenario questions,Yes,,graduate,software engineer,yes,2024,10
-93,94,Software Engineering Graduate,,2024-10-09,no,Yes,,,,,,Company website,automated: Scenario and interview questions,Yes,,graduate,software engineer,no,2024,10
-94,95,Graduate Software Engineer,,2024-10-17,yes,No,No,No,No,Na,,Company website,Rejected due to graduation year,,,graduate,software engineer,yes,2024,10
-95,96,Technology Degree Apprenticeship Engineering,,2024-10-18,no,Yes,,,,,,Company website,automated: Scenario and interview questions,Yes,,apprentice,software engineer,no,2024,10
-96,97,Junior Full Stack Developer / Web Developer,,2024-10-22,yes,,,,,,,Company website,,,,junior,full stack,no,2024,10
-97,98,Software Developer Apprentice,,2024-10-23,no,,,,,,,Company website,,,,mid,software engineer,no,2024,10
-98,99,Data Engineer Apprentice,,2024-10-31,yes,,,,,,,Company website,,,,mid,data engineer,no,2024,10
-99,100,Software Engineering Graduate Scheme,,2024-10-31,yes,,,,,,,Company website,,,,graduate,software engineer,no,2024,10
+number,role,recruiter?,date applied,cv used?,first,tech,final,outcome,feedback?,notes written up?,application method,comments,automated first?,tech test type,job_title,job_role,received_reply,year_applied,month_applied
+1,Associate Back-end,,2023-12-01,yes,Yes,Yes,Yes,No,Yes,Yes,Company website,,no,Pair programming,junior,back-end,yes,2023,12
+2,Full Stack,,2024-01-16,yes,No,No,No,No,,,job board,,,,mid,full stack,yes,2024,1
+3,Junior Back-end,,2024-01-31,yes,Yes,No,No,No,No,,referral email,,no,,junior,back-end,yes,2024,1
+4,Back-end,,2024-02-15,yes,No,No,No,No,,,Company website,,,,mid,back-end,yes,2024,2
+5,Junior Software Engineer,,2024-02-16,yes,No,No,No,No,,,Company website,,,,junior,software engineer,yes,2024,2
+6,Junior Software Engineer,,2024-02-23,yes,No,No,No,No,,,Company website,closed early: too many applicants,,,junior,software engineer,yes,2024,2
+7,Speculative,,2024-02-26,yes,,No,No,No,,,Company website,Speculative: Currently no role available. ,,,speculative,speculative,no,2024,2
+8,Full Stack Dev,,2024-02-27,yes,No,No,No,No,,,Company website,,,,mid,full stack,yes,2024,2
+9,Full Stack Support Engineer,,2024-02-27,yes,No,No,No,No,,,Company website,,,,mid,support,yes,2024,2
+10,Software Engineer,Yes,2024-02-29,yes,No,No,No,No,,,career/job site,,,,mid,software engineer,yes,2024,2
+11,Junior Developer,,2024-03-04,yes,,,,,,,Company website,,,,junior,software engineer,no,2024,3
+12,Junior Full Stack Developer,,2024-03-04,yes,,,,,,,Company website,,,,junior,full stack,no,2024,3
+13,Full Stack Engineer,,2024-03-04,yes,No,No,No,No,,,Company website,"Did not progress, role filled",,,mid,full stack,yes,2024,3
+14,Junior Backend Engineer,,2024-03-12,yes,No,No,No,No,,,Company website,,,,junior,back-end,yes,2024,3
+15,Junior Mobile App Developer,,2024-03-12,yes,,,,,,,career/job site,,,,junior,mobile developer,no,2024,3
+16,Junior Software Engineer,Yes,2024-03-12,yes,,,,,,,career/job site,,,,junior,software engineer,no,2024,3
+17,Graduate Software Engineer,Yes,2024-03-12,yes,,,,,,,career/job site,,,,graduate,software engineer,no,2024,3
+18,Graduate Software Engineer,,2024-03-15,yes,No,No,No,No,,,career/job site,,,,graduate,software engineer,yes,2024,3
+19,Software Engineer Internship,,2024-03-16,no,No,No,No,No,,,Company website,,,,intern,software engineer,yes,2024,3
+20,Software Developer Internship,,2024-03-19,yes,,,,,,,Company website,,,,intern,software engineer,no,2024,3
+21,Graduate Software Engineer,,2024-03-19,yes,,,,,,,Direct email,,,,graduate,software engineer,no,2024,3
+22,Software Developer Internship,,2024-03-19,yes,,,,,,,Company website,,,,intern,software engineer,no,2024,3
+23,Junior Software Developer,,2024-03-20,yes,,,,,,,Company website,,,,junior,software engineer,no,2024,3
+24,Junior Full Stack Developer,,2024-03-21,yes,No,No,No,No,,,career/job site,,,,junior,full stack,yes,2024,3
+25,Junior Software Engineer,Yes,2024-03-25,yes,,,,,,,career/job site,,,,junior,software engineer,no,2024,3
+26,Full Stack Engineer,,2024-03-25,yes,No,No,No,No,,,career/job site,"Did not progress, role filled",,,mid,full stack,yes,2024,3
+27,Apprenticeship,,2024-03-26,yes,Yes,Yes,No,No,No,,Company website,,no,algorithmic problems,apprentice,software engineer,yes,2024,3
+28,Application Software Engineer,Yes,2024-03-26,yes,,,,,,,career/job site,,,,mid,software engineer,no,2024,3
+29,Software Engineer,,2024-04-11,yes,,,,,,,job board,,,,mid,software engineer,no,2024,4
+30,Apprenticeship,,2024-04-21,yes,Yes,Yes,No,No,,,Company website,,no,algorithmic problems,apprentice,software engineer,yes,2024,4
+31,Apprenticeship,,2024-04-24,yes,Yes,Yes,Yes,No,Yes,Yes,Company website,,no,take-home,apprentice,software engineer,yes,2024,4
+32,Graduate Software Engineer,,2024-05-01,yes,,,,,,,Company website,,,,graduate,software engineer,no,2024,5
+33,Software Engineer,,2024-05-01,yes,No,No,No,No,,,Company website,,,,mid,software engineer,yes,2024,5
+34,Graduate Software Engineer,Yes,2024-05-01,yes,,,,,,,,,,,graduate,software engineer,no,2024,5
+35,TypeScript Software Engineer,,2024-05-01,yes,No,No,No,No,,,Company website,,,,mid,software engineer,yes,2024,5
+36,Software Engineer Internship,,2024-05-01,yes,,,,,,,Company website,,,,intern,software engineer,no,2024,5
+37,Software Engineer,,2024-05-02,yes,No,No,No,No,,,career/job site,,,,mid,software engineer,yes,2024,5
+38,Software Engineer (Typescript),,2024-05-02,yes,No,No,No,No,,,career/job site,,,,mid,software engineer,yes,2024,5
+39,Junior Software Developer,,2024-05-04,yes,,,,,,,Company website,,,,junior,software engineer,no,2024,5
+40,Graduate Product Engineer,,2024-05-07,yes,No,No,No,No,,,career/job site,change in circumstance,,,graduate,product engineer,yes,2024,5
+41,Entry-level Software Engineer,,2024-05-07,yes,,,,,,,Company website,,,,junior,software engineer,no,2024,5
+42,Junior Software Engineer,,2024-05-08,yes,,,,,,,career/job site,,,,junior,software engineer,no,2024,5
+43,Software Engineer,,2024-05-13,yes,,,,,,,career/job site,,,,mid,software engineer,no,2024,5
+44,Associate Software Engineer,,2024-05-31,yes,No,Yes,No,No,,,Company website,,,algorithmic problems,junior,software engineer,yes,2024,5
+45,Full Stack Engineer,,2024-06-12,yes,No,No,No,No,,,career/job site,,,,mid,full stack,yes,2024,6
+46,Associate Engineer,,2024-06-12,yes,No,No,No,No,,,Company website,,,,junior,software engineer,yes,2024,6
+47,Graduate Software Engineer,,2024-06-17,yes,No,No,No,No,,,Company website,,,,graduate,software engineer,yes,2024,6
+48,Trainee Web Developer,,2024-06-17,yes,No,No,No,No,,,direct Email,,,,trainee,web developer,yes,2024,6
+49,Full Stack Software Engineer,,2024-06-18,yes,No,No,No,No,,,career/job site,,,,mid,full stack,yes,2024,6
+50,Junior IT Product Developer,,2024-06-18,yes,No,No,No,No,,,Company website,,,,junior,software engineer,yes,2024,6
+51,Junior Software Engineer,,2024-06-20,yes,,,,,,,career/job site,,,,junior,software engineer,no,2024,6
+52,Junior Software Developer,,2024-06-20,yes,No,No,No,No,,,Company website,,,,junior,software engineer,yes,2024,6
+53,Graduate Engineer,,2024-06-20,yes,No,No,No,No,,,Company website,,,,graduate,software engineer,yes,2024,6
+54,Junior Web Developer,Yes,2024-06-20,yes,,,,,,,career/job site,,,,junior,web developer,no,2024,6
+55,Junior Software Engineer,Yes,2024-06-20,yes,,,,,,,career/job site,,,,junior,software engineer,no,2024,6
+56,Full Stack Javascript Developer,,2024-06-20,yes,,,,,,,Company website,,,,mid,full stack,no,2024,6
+57,Software Engineer,,2024-06-20,yes,,,,,,,Company website,,,,mid,software engineer,no,2024,6
+58,Junior Web Developer,,2024-06-21,yes,Yes,,,,,,Company website,,Yes,,junior,web developer,no,2024,6
+59,Junior React Software Engineer,Yes,2024-06-23,yes,,,,,,,career/job site,,,,junior,software engineer,no,2024,6
+60,Junior Developer,,2024-06-24,yes,,,,,,,career/job site,,,,junior,software engineer,no,2024,6
+61,Software Engineer,,2024-06-24,yes,No,No,No,No,,,Company website,,,,mid,software engineer,yes,2024,6
+62,Junior Software Engineer,Yes,2024-06-24,yes,No,No,No,No,,,Company website,,,,junior,software engineer,yes,2024,6
+63,Junior Developer,Yes,2024-06-24,yes,,,,,,,Company website,,,,junior,software engineer,no,2024,6
+64,Php Engineer,,2024-06-24,yes,,,,,,,Company website,,,,mid,software engineer,no,2024,6
+65,Junior Developer,,2024-06-25,yes,No,No,No,No,,,Company website,change in circumstance,,,junior,software engineer,yes,2024,6
+66,Software Engineer,,2024-06-20,yes,No,No,No,No,,,Company website,,,,mid,software engineer,yes,2024,6
+67,Junior Software Engineer,Yes,2024-07-01,yes,,,,,,,career/job site,,,,junior,software engineer,no,2024,7
+68,Junior Software Engineer,Yes,2024-07-01,yes,,,,,,,career/job site,,,,junior,software engineer,no,2024,7
+69,Associate Software Engineer,,2024-07-02,yes,No,No,No,No,,,Company website,,,,junior,software engineer,yes,2024,7
+70,Junior Software Engineer,,2024-07-02,yes,No,No,No,No,,,Direct Email,,,,junior,software engineer,yes,2024,7
+71,Frontend Software Engineer,,2024-07-03,yes,Yes,No,No,No,No,,Direct Email,,no,,mid,front-end,yes,2024,7
+72,Software Engineer I,,2024-07-04,yes,Yes,Yes,Yes,No,Yes,,job board,"Tech test, then Interview",no,,junior,software engineer,yes,2024,7
+73,Associate Software Engineer,,2024-07-17,yes,No,No,No,No,,,Company website,,,,junior,software engineer,yes,2024,7
+74,Junior Fullstack Software Engineer,,2024-07-21,yes,No,No,No,No,,,Company website,,,,junior,full stack,yes,2024,7
+75,Junior Fullstack Software Developer,,2024-07-27,yes,No,No,No,No,,,Company website,,,,junior,full stack,yes,2024,7
+76,Apprenticeship,,2024-07-31,yes,No,Yes,No,No,Yes,,Company website,,,,apprentice,software engineer,yes,2024,7
+77,Junior Web Developer,,2024-08-08,yes,No,No,No,No,,,referral email,change in circumstance,,,junior,web developer,yes,2024,8
+78,Junior Software Engineer,,2024-08-09,yes,,,,,,,career/job site,,,,junior,software engineer,no,2024,8
+79,Junior Software Engineer,,2024-08-13,yes,,,,,,,Company website,,,,junior,software engineer,no,2024,8
+80,React Software Engineer,,2024-08-19,yes,No,No,No,No,,,Company website,,,,mid,software engineer,yes,2024,8
+81,Junior Engineer,,2024-08-20,yes,No,No,No,No,,,Job board,Internal candidate was hired,,,junior,software engineer,yes,2024,8
+82,Apprenticeship,,2024-09-15,yes,No,No,No,No,,,Company website,,,,apprentice,software engineer,yes,2024,9
+83,Junior Software Engineer,,2024-09-20,yes,No,No,No,No,,,Company website,,,,junior,software engineer,yes,2024,9
+84,Graduate Software Engineer,,2024-09-24,yes,Yes,No,No,No,,,Company website,,yes,,graduate,software engineer,yes,2024,9
+85,Software Engineering Graduate,,2024-09-25,yes,No,No,No,No,,,Company website,Rejected due to graduation year,,,graduate,software engineer,yes,2024,9
+86,Graduate Backend Software Engineeer,,2024-09-25,yes,,,,,,,Company website,,,,graduate,back-end,no,2024,9
+87,Junior React Native Developer - Manchester - Hybrid - 1 day a week in office,Yes,2024-09-26,yes,,,,,,,career/job site,,,,junior,mobile developer,no,2024,9
+88,Software Developer Graduate Programme,,2024-09-26,yes,Yes,,,,,,Company website,,yes,,graduate,software engineer,no,2024,9
+89,Software Engineering Graduate,,2024-10-02,yes,No,No,No,No,,,Company website,,,,graduate,software engineer,yes,2024,10
+90,Graduate Software Developer - Full Stack,,2024-10-02,no,,,,,,,Company website,,,,graduate,full stack,no,2024,10
+91,Entry Level Software Software Engineer,,2024-10-03,yes,No,No,No,No,,,Company website,,,,mid,software engineer,yes,2024,10
+92,Training Programme ,,2024-10-07,yes,No,No,No,No,,,Company website,,,,trainee,software engineer,yes,2024,10
+93,Graduate Trainee Software Engineering,,2024-10-07,yes,Yes,No,No,No,,,Company website,Automated scenario questions,Yes,,graduate,software engineer,yes,2024,10
+94,Software Engineering Graduate,,2024-10-09,no,Yes,,,,,,Company website,automated: Scenario and interview questions,Yes,,graduate,software engineer,no,2024,10
+95,Graduate Software Engineer,,2024-10-17,yes,No,No,No,No,Na,,Company website,Rejected due to graduation year,,,graduate,software engineer,yes,2024,10
+96,Technology Degree Apprenticeship Engineering,,2024-10-18,no,Yes,,,,,,Company website,automated: Scenario and interview questions,Yes,,apprentice,software engineer,no,2024,10
+97,Junior Full Stack Developer / Web Developer,,2024-10-22,yes,,,,,,,Company website,,,,junior,full stack,no,2024,10
+98,Software Developer Apprentice,,2024-10-23,no,,,,,,,Company website,,,,mid,software engineer,no,2024,10
+99,Data Engineer Apprentice,,2024-10-31,yes,,,,,,,Company website,,,,mid,data engineer,no,2024,10
+100,Software Engineering Graduate Scheme,,2024-10-31,yes,,,,,,,Company website,,,,graduate,software engineer,no,2024,10
