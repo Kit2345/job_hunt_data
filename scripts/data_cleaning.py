@@ -1,7 +1,8 @@
 import pandas as pd
+import numpy as np 
 
 # Load the CSV file
-df = pd.read_csv('data/raw/Jobs_applied_public.csv')
+df = pd.read_csv('data/raw/Jobs_applied_public.csv', parse_dates=['Date Applied'], dayfirst=True)
 
 # remove space in column names and make all lower case
 df.rename(columns=lambda x: x.strip().lower(), inplace=True)
@@ -65,8 +66,16 @@ def catergorize_job_role(role):
 df["job_role"] = df["role"].apply(catergorize_job_role)
 
 
+# Add column for am I waiting for a response still 
+df["received_reply"] = np.where(df[["first", "tech", "final"]].isna().any(axis=1), "no", "yes")
+
+# Add column for month and year applied 
+df['year_applied'] = pd.DatetimeIndex(df['date applied']).year
+df['month_applied'] = pd.DatetimeIndex(df['date applied']).month
+
+
 print(df)
-print(df[['role']].head(10))
+print(df[['role', 'date applied']].head(10))
 
 
 #Export to csv
