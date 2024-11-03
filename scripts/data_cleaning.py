@@ -74,14 +74,26 @@ df['year_applied'] = pd.DatetimeIndex(df['date applied']).year
 df['month_applied'] = pd.DatetimeIndex(df['date applied']).month
 
 
-# changing yes and no to lower case
-df["automated first?"] = df["automated first?"].str.lower()
-df["first"] = df["first"].str.lower()
-df["tech"] = df["tech"].str.lower()
-df["final"] = df["final"].str.lower()
+# changing yes and no to lower case and strip white space
+df["automated first?"] = df["automated first?"].str.lower().str.strip()
+df["first"] = df["first"].str.lower().str.strip()
+df["tech"] = df["tech"].str.lower().str.strip()
+df["final"] = df["final"].str.lower().str.strip()
+
+# Add yes first interview, but still waiting for outcome
+df.loc[(df["first"] == "yes") & (df["tech"].isnull()), "tech"] = "waiting"
+
+# Add waiting to see if get first interview: 
+df.loc[(df["first"].isnull()), "first"] = "waiting"
+
+# Add yes tech test, but still waiting for outcome 
+df.loc[(df["tech"] == "yes") & (df["final"].isnull()), "final"] = "waiting"
 
 print(df)
-print(df[['role', 'date applied']].head(10))
+print(df[['role', 'date applied', "first", "tech"]].head(10))
+# print(df.iloc[43])
+
+
 
 
 #Export to csv
