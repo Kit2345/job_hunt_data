@@ -74,6 +74,11 @@ df['year_applied'] = pd.DatetimeIndex(df['date applied']).year
 df['month_applied'] = pd.DatetimeIndex(df['date applied']).month
 
 
+# changing yes and no to lower case
+df["automated first?"] = df["automated first?"].str.lower()
+df["first"] = df["first"].str.lower()
+df["tech"] = df["tech"].str.lower()
+df["final"] = df["final"].str.lower()
 
 print(df)
 print(df[['role', 'date applied']].head(10))
