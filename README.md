@@ -42,11 +42,11 @@ I think this project has confirmed to me how difficult data is to collect. Even 
 
 I had to make some assumptions and decisions, for example, one company emailed me to let me know I passed their tech test, but didn’t get through to their assessment day because of the huge number of applicants. I decided to count that as “rejected at tech test”.  
 
-## Improvements:  
+## Improvements:  
 
 I wrote a lot of repeated code, mainly because I wanted to practice and get the syntax stuck in my head. There must be a way to refactor it to make it cleaner!   
 
-## What’s next? 
+## What’s next? 
 I want to create a dashboard to display the information and that updates in real time.  
 
 
