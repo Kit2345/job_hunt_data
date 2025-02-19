@@ -31,7 +31,7 @@ Figure 7: There seems to be a trend for graduate programmes to have automated or
 ![image](https://github.com/user-attachments/assets/37621923-3f44-48e0-a175-fd5e2c7b3deb)
 
 
-Figure 8: For tech tests there seems to be three main types. The results look very polar! Algo problems feel targeted at Computer science graduates, with a strict time limit and tend to be automated. I love solving Codewars katas, but I need more practice, I haven’t been doing them for years and don’t know all the archetypes. I tend to do better with interactive tests like pair programming, and when I have time to research to solve the problem (take-home). The sample size is small, however, and so may not be significant! 
+Figure 8: For tech tests there seems to be three main types. The results look very polar! I love solving Codewars katas/Algorithmic problems, but I need more practice, I haven’t been doing them for years and don’t know all the archetypes, so I'm finding the strict time limit difficult. I'm not giving up however and will continue practicing (Update: Recently did a tech test interview and passed, so the practice seems to be paying off!). I tend to do better with interactive tests like pair programming, and when I have time to research to solve the problem (take-home). The sample size is small, however, and so may not be significant! 
 
 ![image](https://github.com/user-attachments/assets/5044d551-de84-4d27-a409-007ac0487a17)
 
